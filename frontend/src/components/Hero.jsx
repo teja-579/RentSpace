@@ -10,11 +10,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-[20px] md:text-[24px] font-normal leading-[30px] md:leading-9 tracking-[2%]">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea
-            repudiandae nihil fuga iusto corporis vel obcaecati a inventore,
-            neque quas, ipsa odio similique eligendi error in unde quibusdam
-            molestiae possimus! Molestias eos ut pariatur voluptatem consequatur
-            modi! Quia, ab ratione!
+          Rentspace is an innovative web-based platform designed to modernize the rental property market. By providing comprehensive tools for property owners, renters, and administrators, it aims to streamline processes such as property listing, inquiry management, and booking.
           </p>
         </div>
 
